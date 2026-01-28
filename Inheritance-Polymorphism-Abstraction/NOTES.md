@@ -28,3 +28,13 @@
  - If Engine behavior changes → CarService is affected.
  - Inheritance Is for IS-A, Not Code Reuse
  - Composition avoids this because Engine is used like a dependency, not a parent.
+
+
+3) [Wrong-Inheritance/Logger.java](Wrong-Inheritance/Logger.java)
+
+Why this is wrong?
+
+-A Printer is NOT a Logger.
+-This violates IS-A rule and Liskov Substitution Principle.
+-Printer inherited unnecessary behaviors from Logger.
+-Tight coupling — if Logger changes, Printer breaks.
