@@ -10,3 +10,9 @@ This module covers:
 Run Code:
 - Java: javac *.java && java Main
 - TS: ts-node index.ts
+
+## Basics-and-Pillars
+[Notes](Basics-and-Pillars/NOTES.md)
+
+## Inheritance-Polymorphism-Abstraction
+[Notes](Inheritance-Polymorphism-Abstraction/NOTES.md)
