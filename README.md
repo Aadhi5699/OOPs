@@ -4,11 +4,11 @@ This module covers:
 
 - OOP concepts
 - Encapsulation, Abstraction, Inheritance, Polymorphism
+- Composition
 - Immutability
 - Interfaces vs Abstract Classes
 - God Class.
 - Java & TypeScript implementations
-- Starter classes with all 4 pillars
 
 Run Code:
 - Java: javac *.java && java Main
