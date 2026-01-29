@@ -55,4 +55,4 @@ Run Code:
 [Notes](Interfaces-vs-Abstract/NOTES.md)
 
 ## Immutability
-[Notes](Immutability/NOTES.md)
+[Notes](Immutability/Notes.md)
