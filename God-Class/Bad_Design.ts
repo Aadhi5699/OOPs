@@ -1,4 +1,4 @@
-// ❌ God Class — does EVERYTHING
+// God Class — does EVERYTHING
 export class OrderManager {
     private orders: any[] = [];
 
